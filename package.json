@@ -1,0 +1,22 @@
+{
+  "name": "gaohuali",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gaohuali/loser.git"
+  },
+  "keywords": [
+    "111"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaohuali/loser/issues"
+  },
+  "homepage": "https://github.com/gaohuali/loser#readme"
+}
